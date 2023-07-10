@@ -1,7 +1,7 @@
 function Loader() {
   return (
     <div className="container">
-      <h1>Cargando...</h1>
+      <h1>Cargando espere...</h1>
     </div>
   );
 }
