@@ -2,10 +2,10 @@
 // @import "../node_modules/bootstrap/scss/_variables";
 
 // override bootstrap variables
-$dark: #0d0d0d;
-$nav-link-color: #fff;
-$navbar-dark-color: #fff;
-$nav-link-font-size: 17px;
+$dark: #0d0d0ddc;
+$nav-link-color: #ffffffd3;
+$navbar-dark-color: #ffffff;
+$nav-link-font-size: 18px;
 $card-spacer-y: 0px;
 $card-spacer-x: 0px;
 $card-title-color: #000;
@@ -17,8 +17,8 @@ $card-title-color: #000;
 
 .card-title {
   font-size: $nav-link-font-size;
-  letter-spacing: -0.4px;
-  line-height: 28px;
+  letter-spacing: -0.5px;
+  line-height: 29px;
 }
 
 // import bootstrap
